@@ -12,6 +12,10 @@ form{
 	flex-direction: column;
   width: 20%;
 }
+body{
+  display: flex;
+	flex-direction: column;
+}
 @media (orientation: portrait){
   form{
     width: 100%;
