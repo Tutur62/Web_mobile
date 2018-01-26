@@ -4,6 +4,9 @@
 #rouge{
   background-color: red;
 }
+img{
+  max-width: 100%;
+}
 form{
   display: flex;
 	flex-direction: column;
